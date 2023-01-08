@@ -1,0 +1,6 @@
+Smith,Adam,257 Red Hill Ave,Markham,L6B 1K3,647-657-1121,12,2000000.0
+John,Abns,247 Yellow Hill Ave,Markham,L6B 1K7,647-687-1113,17,1500000.0
+Kevin,Brown,247 Blue Hill Ave,Markham,L6B 1K9,647-697-1113,17,1000000.0
+Ethan,Oritz,55 Legacy Hill Ave,Markham,L6B 1K6,647-757-1114,18,1000.0
+Brandon,Thomas,247 Orange Hill Ave,Markham,L6B 1K3,647-557-1113,13,70000.0
+Ian,Wu,247 Black Hill Ave,Markham,L6B 1K5,647-656-1513,12,300000.0
